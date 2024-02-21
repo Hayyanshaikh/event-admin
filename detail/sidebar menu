@@ -1,0 +1,24 @@
+DASHBOARD SIDEBAR MENU
+======================
+
+├─ Dashboard
+├─ Events
+│   ├─ Add Event
+│   ├─ Manage Event
+│   └─ Event List
+├─ Organizers
+│   ├─ Add Organizers
+│   └─ Manage Organizers
+├─ Users
+│   └─ User List
+├─ Venue
+│   ├─ Add Venue
+│   └─ Manage Venue
+├─ Categories
+│   ├─ Add Categories
+│   └─ Manage Categories
+├─ Reviews
+│   └─ Manage Reviews
+└─ Pages
+    ├─ Add Page
+    └─ Manage Pages
